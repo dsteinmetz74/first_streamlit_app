@@ -1,3 +1,3 @@
-import streamlit;
-streamlit.Title("My Parents New Health Diner")
+import streamlit
+streamlit.Title('My Parents New Health Diner')
 
